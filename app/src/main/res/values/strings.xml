@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voise Translator</string>
+    <string name="accessibility_service_label">Voise Translator — авто-отправка</string>
+    <string name="accessibility_service_description">Выбирает нужный чат в WhatsApp и нажимает «Отправить», чтобы переведённое сообщение уходило без ручных действий. Служба реагирует только на экраны WhatsApp и только после того, как вы сами запустили отправку.</string>
+    <string name="bubble_content_description">Надиктовать сообщение</string>
+    <string name="bubble_notification_title">Voise Translator готов</string>
+    <string name="bubble_notification_text">Нажмите плавающую кнопку, чтобы надиктовать сообщение</string>
+</resources>
